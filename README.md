@@ -6,7 +6,3 @@
 	<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diogogomes2003&layout=compact&langs_count=7&theme=algolia"/>
 		
 </div>
-
-| Projects      | Solutions  |
-| :--------------:| :----------:|
-| Libft | <a href="https://github.com/diogogomes2003/libft"><img src="https://badge42.vercel.app/api/v2/clhhnbua5001108mbvxboj2i5/project/3061313" alt="dduarte-'s 42 Libft Score" /> </a> |
